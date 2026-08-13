@@ -8,7 +8,7 @@ await app.register(cors, {
   
   origin: [
     'http://localhost:5174',       
-    'https://f1-manager-dashboard.vercel.app/' 
+    'https://f1-manager-dashboard.vercel.app' 
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE']
 });

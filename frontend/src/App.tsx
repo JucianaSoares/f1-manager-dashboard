@@ -13,9 +13,9 @@ export default function App() {
       try {
         setCarregando(true);
         const [resPilotos, resEquipes] = await Promise.all([
-          fetch('http://localhost:3000/pilotos'),
-          fetch('http://localhost:3000/equipes')
-        ]);
+       fetch('https://f1-manager-dashboard.onrender.com/pilotos'),
+       fetch('https://f1-manager-dashboard.onrender.com/equipes')
+ ]);
 
         if (!resPilotos.ok || !resEquipes.ok) {
           throw new Error('Não foi possível carregar os dados da API.');

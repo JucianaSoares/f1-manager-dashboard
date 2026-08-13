@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "nome": "Ferrari",
+    "base": "Italia",
+    "motor": "Ferrari"
+  },
+  {
+    "id": 2,
+    "nome": "Mercedes",
+    "base": "Alemanha",
+    "motor": "Mercedes"
+  },
+  {
+    "id": 3,
+    "nome": "Red Bull Racing",
+    "base": "Austria",
+    "motor": "Honda RBPT"
+  },
+  {
+    "id": 4,
+    "nome": "Ferrari",
+    "base": "Itália",
+    "motor": "Ferrari"
+  },
+  {
+    "id": 5,
+    "nome": "Mercedes",
+    "base": "Alemanha",
+    "motor": "Mercedes"
+  },
+  {
+    "id": 6,
+    "nome": "Red Bull Racing",
+    "base": "Áustria",
+    "motor": "Honda RBPT"
+  },
+  {
+    "id": 7,
+    "nome": "McLaren",
+    "base": "Reino Unido",
+    "motor": "Mercedes"
+  },
+  {
+    "id": 8,
+    "nome": "Aston Martin",
+    "base": "Reino Unido",
+    "motor": "Mercedes"
+  },
+  {
+    "id": 9,
+    "nome": "Alpine",
+    "base": "França",
+    "motor": "Renault"
+  },
+  {
+    "id": 10,
+    "nome": "Williams",
+    "base": "Reino Unido",
+    "motor": "Mercedes"
+  },
+  {
+    "id": 11,
+    "nome": "RB",
+    "base": "Itália",
+    "motor": "Honda RBPT"
+  },
+  {
+    "id": 12,
+    "nome": "Kick Sauber",
+    "base": "Suíça",
+    "motor": "Ferrari"
+  },
+  {
+    "id": 13,
+    "nome": "Haas",
+    "base": "Estados Unidos",
+    "motor": "Ferrari"
+  }
+]

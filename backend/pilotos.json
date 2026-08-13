@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nome": "Charles Leclerc",
+    "equipe": "Ferrari",
+    "pais": "Mônaco"
+  },
+  {
+    "id": 2,
+    "nome": "Lewis Hamilton",
+    "equipe": "Ferrari",
+    "pais": "Reino Unido"
+  },
+  {
+    "id": 3,
+    "nome": "Max Verstappen",
+    "equipe": "Red Bull Racing",
+    "pais": "Holanda"
+  },
+  {
+    "id": 4,
+    "nome": "Sergio Perez",
+    "equipe": "Red Bull Racing",
+    "pais": "México"
+  },
+  {
+    "id": 5,
+    "nome": "Lando Norris",
+    "equipe": "McLaren",
+    "pais": "Reino Unido"
+  },
+  {
+    "id": 6,
+    "nome": "Oscar Piastri",
+    "equipe": "McLaren",
+    "pais": "Austrália"
+  },
+  {
+    "id": 7,
+    "nome": "George Russell",
+    "equipe": "Mercedes",
+    "pais": "Reino Unido"
+  },
+  {
+    "id": 8,
+    "nome": "Kimi Antonelli",
+    "equipe": "Mercedes",
+    "pais": "Itália"
+  },
+  {
+    "id": 9,
+    "nome": "Fernando Alonso",
+    "equipe": "Aston Martin",
+    "pais": "Espanha"
+  },
+  {
+    "id": 10,
+    "nome": "Lance Stroll",
+    "equipe": "Aston Martin",
+    "pais": "Canadá"
+  },
+  {
+    "id": 11,
+    "nome": "Pierre Gasly",
+    "equipe": "Alpine",
+    "pais": "França"
+  },
+  {
+    "id": 12,
+    "nome": "Jack Doohan",
+    "equipe": "Alpine",
+    "pais": "Austrália"
+  },
+  {
+    "id": 13,
+    "nome": "Alexander Albon",
+    "equipe": "Williams",
+    "pais": "Tailândia"
+  },
+  {
+    "id": 14,
+    "nome": "Carlos Sainz",
+    "equipe": "Williams",
+    "pais": "Espanha"
+  },
+  {
+    "id": 15,
+    "nome": "Yuki Tsunoda",
+    "equipe": "RB",
+    "pais": "Japão"
+  },
+  {
+    "id": 16,
+    "nome": "Isack Hadjar",
+    "equipe": "RB",
+    "pais": "França"
+  },
+  {
+    "id": 17,
+    "nome": "Nico Hulkenberg",
+    "equipe": "Haas",
+    "pais": "Alemanha"
+  },
+  {
+    "id": 18,
+    "nome": "Esteban Ocon",
+    "equipe": "Haas",
+    "pais": "França"
+  },
+  {
+    "id": 19,
+    "nome": "Valtteri Bottas",
+    "equipe": "Kick Sauber",
+    "pais": "Finlândia"
+  },
+  {
+    "id": 20,
+    "nome": "Gabriel Bortoleto",
+    "equipe": "Kick Sauber",
+    "pais": "Brasil"
+  }
+]

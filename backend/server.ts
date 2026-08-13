@@ -5,10 +5,10 @@ import cors from '@fastify/cors';
 const app = Fastify();
 
 await app.register(cors, { 
-  // Substitua pelos seus endereços reais
+  
   origin: [
-    'http://localhost:5174',       // Para o seu desenvolvimento no Termux
-    'https://seu-projeto.vercel.app' // Coloque aqui o link real que a Vercel vai te dar
+    'http://localhost:5174',       
+    'https://f1-manager-dashboard.vercel.app/' 
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE']
 });
@@ -308,7 +308,8 @@ app.delete('/pilotos/:id', async (request, reply) => {
 // ==========================================
 const iniciar = async () => {
   try {
-    await app.listen({ port: 3000 });
+    await app.listen({ port: process.env.PORT ? Number(process.env.PORT) : 3000, 
+  host: '0.0.0.0'  });
     console.log('Servidor rodando na porta 3000!');
   } catch (err) {
     app.log.error(err);

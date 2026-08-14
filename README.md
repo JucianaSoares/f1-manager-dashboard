@@ -27,5 +27,7 @@ Painel de gerenciamento e dashboard de Fórmula 1 desenvolvido como parte dos me
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/JucianaSoares/https://github.com/JucianaSoares/f1-manager-dashboard](https://github.com/JucianaSoares/https://github.com/JucianaSoares/f1-manager-dashboard)
+
 2. Instale as dependências e inicie os serviços.
+
 ​Feito com 💜 por Juciana de Souza Soares.
